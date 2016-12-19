@@ -1,0 +1,1 @@
+ thi function should print all number up to number void print num int i for i number i numberl i printf dn i

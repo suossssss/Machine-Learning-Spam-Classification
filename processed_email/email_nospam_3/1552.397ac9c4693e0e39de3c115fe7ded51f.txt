@@ -1,0 +1,1 @@
+ robert strickler said look like we need an ident stamp in the x spam header so that sa onli accept header from author sourc well spamassassin will just ignor ani old x spam whatev header it find so that cannot be us to get around the filter j in remembr www osdn com number spamassassin talk mail list emailaddr httpaddr

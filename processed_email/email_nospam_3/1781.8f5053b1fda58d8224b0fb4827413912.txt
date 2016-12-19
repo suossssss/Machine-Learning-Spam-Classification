@@ -1,0 +1,1 @@
+ httpaddr thi is the binari pickl of my classifi after train on my first spam ham corpora pair all record with spamprob unknown spamprob have been purg it s in a zip file and is onli half a meg jeremi it would be interest if you tri that on your data the fals neg rate across my other number test set when run against thi ar number number number number number number number number

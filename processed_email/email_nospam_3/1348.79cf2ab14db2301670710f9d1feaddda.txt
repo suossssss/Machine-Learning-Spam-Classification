@@ -1,0 +1,1 @@
+ same as in mplayer src packag the with and without not work correctli i do without art and it still want to instal with art roi rpm list mail list httpaddr

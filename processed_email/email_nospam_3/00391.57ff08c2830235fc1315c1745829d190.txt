@@ -1,0 +1,1 @@
+ what s the trick again to have it default to show text plain instead of html harlan exmh user mail list emailaddr httpaddr

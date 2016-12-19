@@ -1,0 +1,1 @@
+ matthia haas wrote the bytecod interpret is disabl on rhnumber defin at line number in the specfil of the srpm right you ar the srpm includ a patch to enabl it but then the specfil default to not appli that patch i saw the former but miss the later egad what a convolut maze sorri for the misinform rpm list mail list httpaddr

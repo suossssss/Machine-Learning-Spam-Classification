@@ -1,0 +1,1 @@
+ skip montanaro that ha the nasti side effect of place all py file in the packag what about obviou execut script like timtest or hammi how can i keep them out of the packag put them in a script folder m

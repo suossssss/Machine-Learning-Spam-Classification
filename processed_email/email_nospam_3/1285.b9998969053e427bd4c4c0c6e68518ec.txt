@@ -1,0 +1,1 @@
+ hi ar there ani reason not to us the new apt releas on rh number x reiserfsck ist bekannt dafr da es leer dateisystem zurcklt gut formaljuristisch hat er da dateisystem in einen wohldefinierten zustand versetzt aber nunja man erwartet schon irgendwi da noch ein paar daten drauf sind danach felix v leitner dasr rpm list mail list httpaddr

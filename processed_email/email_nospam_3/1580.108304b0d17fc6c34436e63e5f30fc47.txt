@@ -1,0 +1,1 @@
+ justin mason write hmm also i think i ve found some case where it s hit on fetchmail receiv hdr that s bad so it could be fix fetchmail add receiv header that seem wrong i ll open a bug to investig can you attach some exampl yeah will do somehow piti the bugzilla doesn t allow email submiss agre at least you can add inform with email dan

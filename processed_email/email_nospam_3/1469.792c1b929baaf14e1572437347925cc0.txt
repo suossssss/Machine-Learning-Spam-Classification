@@ -1,0 +1,1 @@
+ now that i have spam assassin and mailscann work how can i have smap delet rather than forward i chang spam action conf to defaultdelet but it is still send it to the recipi thank ken thi sf net email is sponsor by jabber the world s fastest grow real time commun platform don t just im build it in httpaddr spamassassin talk mail list emailaddr httpaddr

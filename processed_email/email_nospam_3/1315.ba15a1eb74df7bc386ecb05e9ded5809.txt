@@ -1,0 +1,1 @@
+ hei sinc i upgrad to redhatnumb mplayer vo sdl isnt work for me it give me black screen and i onli hear sound can anyon help me with thi btw also the sourc rpm specifi that i can do without libdv but it didn t work work for lirc and art thank roi rpm list mail list httpaddr

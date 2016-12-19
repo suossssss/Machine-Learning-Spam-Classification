@@ -1,0 +1,1 @@
+ hi thi is my first problem with on of the freshrpm rpm i just upgrad mplayer and now i get dollar mplayer mplayer error while load share librari libdvdnav so number cannot open share object file no such file or directori i guess matthia ha forgotten libdvdnav depend thei told me i need winnumb or better so i chose linux rpm list mail list httpaddr

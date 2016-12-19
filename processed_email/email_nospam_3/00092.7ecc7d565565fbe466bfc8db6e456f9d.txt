@@ -1,0 +1,1 @@
+ i think i ll ask thi question again as i sent on fridai afternoon justin hi can anyon point me to a howto on run mail list not look for anyth that is packag specif but rather someth that give gener info on the variou email header and deal with return mail error in transport etc thank justin irish linux user group emailaddr httpaddr for un subscript inform list maintain emailaddr

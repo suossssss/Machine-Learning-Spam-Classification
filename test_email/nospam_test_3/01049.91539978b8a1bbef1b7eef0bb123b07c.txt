@@ -1,0 +1,1 @@
+ hi matthia i think i could do help you out with new plugin packag for gkrellm number would you prefer to keep it as it is now or packag everi plugin separ the latter would be probabl easier to maintain ill skytt vill skytta at iki fi rpm list mail list httpaddr

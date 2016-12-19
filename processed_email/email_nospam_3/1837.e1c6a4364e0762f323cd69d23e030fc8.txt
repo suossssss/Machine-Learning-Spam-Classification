@@ -1,0 +1,1 @@
+ that ha the nasti side effect of place all py file in the packag what about obviou execut script like timtest or hammi how can i keep them out of the packag why would we care about instal a few extra file as long as thei re insid a packag guido van rossum home page httpaddr

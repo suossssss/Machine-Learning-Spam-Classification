@@ -1,0 +1,1 @@
+ emailaddr justin mason write btw i tri tweak some of the score that lint rule complain about be neg when thei shouldn t be and it ruin the result it s worth hand tweak a bit but in some case there s counter intuit combinatori effect like the abov so be care when tweak run a log to c evolv c to check the new hitrat afterward my tendenc is to sai that we shouldn t tweak at all dan

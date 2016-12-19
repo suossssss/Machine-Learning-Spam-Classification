@@ -1,0 +1,1 @@
+ hi matthia saou wrote my main concern is that when rebuild the recent packag i ve made for psych on valhalla i d need to lower the releas tag to keep an upgrad work and that would f ck up my cv repositori which is on my valhalla box sorri i don t get it what s wrong with a releas tag of frnumber do i look like a freakin peopl person rpm list mail list httpaddr

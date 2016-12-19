@@ -1,0 +1,1 @@
+ i can t seem to build thi packag it error out becaus rpm found file not includ in ani of the packag i tri get them add it s the document that is be load and wa unsuccess anyon get thi to work coi rpm list mail list httpaddr

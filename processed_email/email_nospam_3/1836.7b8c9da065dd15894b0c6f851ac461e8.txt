@@ -1,0 +1,1 @@
+ if and when we packag thi perhap we should us barri s trick greg it s not a trick it just requir thi greg packag dir spambay greg in the setup script that ha the nasti side effect of place all py file in the packag what about obviou execut script like timtest or hammi how can i keep them out of the packag skip

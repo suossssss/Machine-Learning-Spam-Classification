@@ -1,0 +1,1 @@
+ url httpaddr date mon number sep number number number number gmt i ve been hear a lot about foaf which is an acronym for friend of a friend it s an rdf base file format that let you walk a network of peopl who ar friend it s a lot like a network of blogrol number number httpaddr

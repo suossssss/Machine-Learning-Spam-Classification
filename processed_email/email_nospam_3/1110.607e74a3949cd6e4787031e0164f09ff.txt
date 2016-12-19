@@ -1,0 +1,1 @@
+ is there ani wai to customis the folder tabl of content for specif folder i know it is possibl to do per folder customis with compon and replcomp for messag templat but what about form format file for scan cheer toni exmh user mail list emailaddr httpaddr
